@@ -1,0 +1,10 @@
+Make a function to check if a number is prime or not
+
+1. if a number is less than or equals to one , its not a prime number
+2. if a number is divisible by two, except two itself,  its not a prime number
+3.all prime numbers after 2 are odd. 
+3.First we check if the number is even, and if not we check all odd until we reach the square root of the number
+ 
+4.in the main function we count all prime numbers ultil we reach the 10001st prime and print it.
+
+
